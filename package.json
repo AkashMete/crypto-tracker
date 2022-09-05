@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AkashMete/crypto-tracker/issues"
   },
-  "homepage": "https://github.com/AkashMete/crypto-tracker#readme"
+  "homepage": "https://github.com/AkashMete/crypto-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
