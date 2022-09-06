@@ -1,0 +1,25 @@
+{
+  "name": "crypto-tracker-using-api",
+  "version": "1.0.0",
+  "description": "Basic web application to track crypto currency data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashMete/crypto-tracker.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashMete/crypto-tracker/issues"
+  },
+  "homepage": "https://github.com/AkashMete/crypto-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

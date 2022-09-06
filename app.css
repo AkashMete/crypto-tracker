@@ -1,0 +1,27 @@
+
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+    background-color: #14213d;
+    background-image: url("crypto-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+  
+}
+
+.fix{
+    border:2px solid #0018a0;
+    border-radius: 5px;
+    background-color:#0018a0 ;
+    padding: 10px;
+}
+h1,h4{
+    color:grey;
+}
+
